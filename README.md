@@ -12,5 +12,9 @@
 * C
 * gcc or clang
 
+### Notes:
+* Sample credit card numbers in [`./numbers.txt`](https://github.com/aharshbe/Validate-CC/blob/master/numbers.txt) are provided by PayPal [here](https://developer.paypal.com/docs/payflow/payflow-pro/payflow-pro-testing/#credit-card-numbers-for-testing).
+
+
 #### Author:
 * Austin Harshberger
